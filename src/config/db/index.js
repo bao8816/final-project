@@ -3,8 +3,10 @@ const config = {
     user: 'sa',
     password: '01239916133',
     database: 'WEB2',
-    server: '4.tcp.ngrok.io',
-    port: 18965,
+    // server: '4.tcp.ngrok.io',
+    // port: 18965,
+    server: '192.168.1.163',
+    port: 1433,
     options: {
         trustedConnection: true,
         encrypt: true,
