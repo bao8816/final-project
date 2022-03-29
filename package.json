@@ -31,7 +31,8 @@
   "homepage": "https://github.com/bao8816/final-project#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "express-handlebars": "^6.0.3"
+    "express-handlebars": "^6.0.3",
+    "mssql": "^8.0.2"
   },
   "devDependencies": {
     "node-sass": "^7.0.1",
